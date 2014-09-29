@@ -1,0 +1,189 @@
+#nav {
+	background: #f2f2f2;
+	height: 60px;
+}
+
+#google {
+	height: 33px;
+	width: 92px;
+	position: inline;
+	float: left;
+	margin: 12px 12px;
+}
+
+input {
+	width: 45%;
+	background-color: #fff;
+	border: 1px solid #e0e0e0;	
+	position: inline;
+	float: left;
+}
+
+#search {
+	position: inline;
+	background-color:;
+	width: 65%;
+	float: left;
+	margin: 8px 0 0 0;
+	height: 27px;
+}
+
+#asdf {
+	width: 25%;
+	float: right;
+}
+
+#signin {
+	float: right;
+	border: 1px solid rgba(0, 0, 0, 0);
+	margin: 10px;
+	padding: 3px 5px;
+	border-radius: 2px;
+	padding: 5px 10px;
+
+	background: -moz-linear-gradient(center top , #4387FD, #4683EA) 
+	repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+
+#magnify {
+	height: 20px;
+	width: 20px;
+	color: #ffffff;
+}
+
+#click {
+	margin: 8px 0px;
+	padding: 0px;
+	outline: medium none;
+	padding: 0;
+
+	border: 1px solid rgba(0, 0, 0, 0);
+
+	background: -moz-linear-gradient(center top , #4387FD, #4683EA) 
+	repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+#container {
+	margin: 2px;
+}
+
+/*###############################33
+################################*/
+
+#something {
+	height: 60px;	
+	border-bottom: 1px solid #e0e0e0;
+}
+
+.first {
+	text-decoration: none;
+	color: #000000;
+	font-family: arial, sans-serif;
+	font-size: 14px;
+	margin: 15px;
+}
+
+#something:first-child {
+	margin-left: 200px;
+	padding: 0 15px;
+	background: yellow;
+}
+
+/*###############################33
+################################*/
+
+#results {
+	font-size: small;
+	font-family: arial, sans-serif;
+	width: 528px;
+	margin-left: 120px;
+	border-bottom: 1px solid #e0e0e0;
+}
+
+#results div {
+	margin-bottom: 20px;
+}
+
+#results div a {
+	margin: 2px;
+	font-size: medium;
+	text-decoration: none;
+}
+
+#results div p {
+	margin: 2px;
+}
+
+.green {
+	color: #006621;
+}
+
+#results a:hover {
+	text-decoration: underline;
+}
+
+/*###############################33
+################################*/
+
+#other {
+	border-bottom: 1px solid #e0e0e0;
+	margin-left: 120px;
+	padding: 8px 5px;
+	width: 528px;
+}
+
+.hhh {
+	display: inline-block;
+	width: 264px;
+	font-size: 15px;
+}
+
+.hhh a {
+	display: block;
+	font-family: arial, sans-serif;
+	margin-bottom: 10px;
+	text-decoration: none;
+}
+
+
+
+/*###############################33
+################################*/
+
+#footer {
+	background: none repeat scroll 0 0 #f2f2f2;
+	border-top: 1px solid #e4e4e4;
+	margin-bottom: 10px;
+}
+
+.ppp {
+	margin-left: 120px;
+	padding-left: 5px 0;
+	font-size: small;
+}
+
+.ppp a {
+	text-decoration: none;
+	color: #777;
+	font-family: arial, sans-serif;
+	margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
